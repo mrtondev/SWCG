@@ -1,0 +1,132 @@
+body {
+    background-image: url(https://r4.wallpaperflare.com/wallpaper/1005/822/563/star-wars-death-star-at-at-space-wallpaper-abe6bced53f1bfb9a5847bf93dac5c90.jpg);
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.screen{
+    height: 200%;
+}
+
+#versus{
+    position: fixed;
+    padding-top: 30vh;
+    height: 150px;
+    padding-left: 95vh;
+}
+
+.card{
+    margin-left: 200px;
+}
+
+.card img{
+    position: fixed;
+    height: 90vh;
+    
+}
+
+.char img{
+    padding-top: 20vh;
+    height: 50vh;
+}
+
+.char .titulo{
+    font-size: 300%;
+    padding-top: 50px;
+    padding-left: 190px;
+    position: fixed;
+    font-family: Death Star;
+    color: whitesmoke;
+    min-width: 100px;
+}
+.char p{
+    font-family: Death Star;
+    color: whitesmoke;
+    position: fixed;
+    padding-top: 650px;
+    padding-left: 40px;
+    font-size: 160%;
+    min-width: 40px;
+}
+
+.char h2{
+    font-family: Death Star;
+    color: whitesmoke;
+    position: fixed;
+    font-size: 150%;
+    padding-left: 350px;
+    padding-top: 80vh;
+    min-width: 30px;
+
+}
+
+#logo{
+    padding-left: 30px;
+    padding-top: 50px;
+    height: 15vh;
+    
+}
+
+/* card2 */
+
+.card2 {
+    padding-left: 130vh;
+}
+
+.card2 img{
+    position: fixed;
+    height: 90vh;
+}
+
+.char2 h1{
+    color: whitesmoke;
+    font-family: Death Star;
+    font-size: 300%;
+    padding-top: 70px;
+    padding-left: 200px;
+    position: fixed;
+}
+
+.char2 img{
+    padding-top: 22vh;
+    height: 50vh;
+}
+
+#logo2{
+    position: fixed;
+    padding-left: 40px;
+    padding-top: 50px;
+    height: 15vh;
+    
+}
+
+.char2 p{
+    font-family: Death Star;
+    color: whitesmoke;
+    position: fixed;
+    padding-top: 670px;
+    padding-left: 30px;
+    font-size: 120%;
+    min-width: 40px;
+}
+
+
+.char2 h2{
+    font-family: Death Star;
+    color: whitesmoke;
+    position: fixed;
+    padding-top: 740px;
+    padding-left: 18%;
+
+}
+
+.char2 .titulo{
+    font-size: 300%;
+    padding-top: 70px;
+    padding-left: 290px;
+    position: fixed;
+    font-family: Death Star;
+    color: whitesmoke;
+    min-width: 100px;
+}
