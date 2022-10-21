@@ -1,0 +1,59 @@
+body{
+    margin: 0,0;
+    color: whitesmoke;
+    background-color: black;
+    font-family: Star Jedi;
+    background-image: url(https://images.wallpaperscraft.com/image/single/stars_space_dark_139528_1920x1080.jpg);
+    background-repeat:none;
+    background-size: cover
+}
+
+.title h2{
+    position: absolute;
+    text-align: center;
+    padding-left: 20%;
+    color: #DAA520;
+    font-size: 15vh;
+}
+
+.title h1{
+    padding-top: 15%;
+    position: fixed;
+    text-align: center;
+    padding-left: 35%;
+    color: #DAA520;
+    font-size: 15vh;
+}
+
+.Btn {
+    display: flex ;
+    justify-content: flex-end;
+    align-items: flex-start;
+    column-gap: 10px;
+
+}
+
+.loginBtn button{
+    border: whitesmoke, 20px, solid;
+    background-color: transparent;
+    border-radius: 25px;
+}
+
+.loginBtn button a{
+    color:whitesmoke;
+    text-decoration: none;
+}
+
+
+.registerBtn button{
+    border-radius: 25px;
+    border: 2px solid #DAA520;
+    background-color: transparent;
+    
+}
+
+.registerBtn button a{
+    text-decoration: none;
+    color: #ffb700;    
+}
+

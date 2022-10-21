@@ -1,0 +1,34 @@
+body{
+    margin: 0, 0;
+    margin: 0,0;
+    color: whitesmoke;
+    background-color: black;
+    font-family: Star Jedi;
+    background-image: url(https://images.wallpaperscraft.com/image/single/stars_space_dark_139528_1920x1080.jpg);
+    background-repeat:none;
+    background-size: cover
+}
+
+.container{
+    color: white;
+    margin-left: 20vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.title h1{
+    color: #fdb500;
+    font-size: 250%;
+}
+
+.submit input{
+    color: #fdb500;
+    background-color: transparent;
+    border-radius: 25px;
+    
+}
+
+input{
+    border-radius: 20px;
+}
