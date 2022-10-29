@@ -21,7 +21,7 @@ body{
     position: absolute;
     border-radius: 20px;
     background-size: contain;
-    background-image: url(/fundo2.jpg);
+    background-image: url(/CG/src/fundo2.jpg);
    /* background-image: url(https://criartesantacristina.files.wordpress.com/2011/10/fundo-azul.png); */
     background-repeat: repeat;
     height: 800px;
