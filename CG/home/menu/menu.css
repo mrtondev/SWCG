@@ -20,10 +20,43 @@ body{
     display: flex;
 }
 
-a{  
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    color: whitesmoke;
+.cards {
+    margin-left: 400px;
+}
+
+.cards a{
+    position: fixed;
     text-decoration: none;
+    color: whitesmoke;
+    font-size: 150%;
+    text-align: center;
+
+}
+
+a img{
+    border-radius: 5px;
+    display: flex;
+    width: 350px;
+    height: 450px;
+
+}
+
+.mount img{
+   position: relative;   
+}
+
+.jxj {
+    padding-left: 450px;
+}
+
+.jxj img{
+   position: relative;   
+}
+
+.ai{
+    padding-left: 900px;
+}
+.ai img{
+    position: relative;
+       
 }
