@@ -16,16 +16,14 @@ body{
     text-align: center;
 }
 
-.container{
-    display: flex;
-}
 
 .cards {
     margin-left: 400px;
+    display: flex;
+    margin-right: 100px;
 }
 
 .cards a{
-    position: fixed;
     text-decoration: none;
     color: whitesmoke;
     font-size: 150%;
@@ -41,22 +39,10 @@ a img{
 
 }
 
-.mount img{
-   position: relative;   
-}
-
-.jxj {
-    padding-left: 450px;
-}
-
-.jxj img{
-   position: relative;   
+.pvp {
+    margin-left: 100px;
 }
 
 .ai{
-    padding-left: 900px;
-}
-.ai img{
-    position: relative;
-       
+    margin-left: 100px;
 }
